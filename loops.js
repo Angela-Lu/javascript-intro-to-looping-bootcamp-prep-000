@@ -15,7 +15,4 @@ function whileLoop() {
   while(countdown > 0) {
     console.log(--countdown)
     }
-    else {
-      console.log("done")
-    }
   }
