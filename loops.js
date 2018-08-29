@@ -3,6 +3,6 @@ for (let i = 0; i < 25; i++) {
     console.log("I am one strange loop")
   }
   else {
-    console.log("I am ${i} strang loops.")
+    console.log(`I am ${i} strang loops.`)
   }
 }
