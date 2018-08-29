@@ -10,3 +10,12 @@ function forLoop(array) {
   return array
 }
 
+function whileLoop() {
+  let countdown = Math.random()
+  while(countdown > 0) {
+    console.log(--countdown)
+    }
+    else {
+      console.log("done")
+    }
+  }
