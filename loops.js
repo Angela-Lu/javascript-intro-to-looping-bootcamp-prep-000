@@ -24,7 +24,7 @@ function whileLoop(n) {
       i = i + 1 
     }
     do {
-      array.shift
+      array.shift()
       incrementVariable()
      }
      while (array.length > 0 && incrementVariable())
